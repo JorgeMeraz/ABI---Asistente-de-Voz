@@ -1,7 +1,5 @@
 
-Para que el archivo README.md se vea bien organizado con párrafos, saltos de línea, listas numeradas, y con iconos, debes usar la sintaxis de Markdown. Aquí tienes una versión mejorada de tu README.md:
-
-🤖 ABI - Asistente de Voz
+#🤖 ABI - Asistente de Voz
 ABI es un asistente de voz simple que puede responder a comandos de voz en español, como preguntar la hora, abrir aplicaciones en tu computadora, buscar información en la web, y más.
 
 📄 Descripción del Proyecto
